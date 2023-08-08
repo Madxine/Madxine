@@ -60,7 +60,7 @@
 
 ### 🏆 My Status : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Madxine&theme=neon&card_width=400)](https://git.io/streak-stats)　[![Madxine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madxine&theme=neon&card_width=400&show_icons=true)](https://github.com/Madxine/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Madxine&theme=neon&card_width=380)](https://git.io/streak-stats)　[![Madxine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madxine&theme=neon&card_width=380&show_icons=true)](https://github.com/Madxine/github-readme-stats)
 
 ---
 
