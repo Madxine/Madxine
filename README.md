@@ -60,8 +60,14 @@
 
 ### 🏆 My Status : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Madxine&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Madxine&theme=neon&card_width=450)](https://git.io/streak-stats)[![Madxine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madxine&theme=neon&show_icons=true)](https://github.com/Madxine/github-readme-stats)
 
+---
+
+### 📝Blog Posts : 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **Madxine/Madxine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
