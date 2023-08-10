@@ -31,10 +31,11 @@
 
 ### ⚡ Fun fact : 
 
++ 🎮 Gamer
 + 👽 Sci-Fi Geek
 + 🐲 Pokémon Trainer
-+ 🪬 Conspiracy Researcher
 + 🐶 Animal Lover
++ 🪬 Conspiracy Researcher
 
 ---
 
